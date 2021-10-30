@@ -11,6 +11,5 @@
                 <a href="#">Item 2</a>
             </li>
         </ul>
-    </div>
     </body>
 </html>
